@@ -1,0 +1,12 @@
+#basic installation doc page:
+#https://kivy.org/docs/installation/installation-linux.html
+
+1. sudo add-apt-repository ppa:kivy-team/kivy
+
+2. sudo add-apt-repository ppa:kivy-team/kivy-daily
+
+3. sudo apt-get update
+
+4. sudo apt-get install python-kivy
+
+
